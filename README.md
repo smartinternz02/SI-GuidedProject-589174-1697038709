@@ -32,7 +32,7 @@ https://drive.google.com/file/d/1dnnNwP4UVd9Wksjdjf3KPlWQrSp2NPvC/view?usp=shari
 
 # Made By:
 Nishant Dalal
-Aniket Chaudhary
-Dev Rana
 
-![image](https://github.com/smartinternz02/SI-GuidedProject-589174-1697038709/assets/87112884/0b7cebe9-6c5d-4c2b-85d8-41d02898622f)
+Aniket Chaudhary
+
+Dev Rana
